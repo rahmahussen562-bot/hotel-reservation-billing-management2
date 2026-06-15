@@ -297,7 +297,7 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 **Graduation Project — Hotel Property Management System**
 
-- 📧 Contact: *[your-email@example.com]*
+- 📧 Contact: rahmahussen562@gmail.com
 - 🔗 Repository: [hotel-property-management-system](https://github.com/YOUR_USERNAME/hotel-property-management-system)
 
 ---
